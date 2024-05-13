@@ -3,6 +3,7 @@
   "version": "4.4.8",
   "description": "",
   "type": "module",
+  "heroku-postbuild": "npm install && npm start"
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
